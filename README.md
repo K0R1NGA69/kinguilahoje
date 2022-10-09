@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Kinguila Hoje
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple react web application that displays the exchange information for Euro and Dollar to the Kwanza Angolan currency in the informal market
 
 ## Available Scripts
 
